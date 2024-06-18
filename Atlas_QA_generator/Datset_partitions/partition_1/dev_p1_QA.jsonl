@@ -1,0 +1,2 @@
+{"id": 7, "contributed_by": "group 1", "question": "What is the implication of a high irreducible error for our predictions?", "answers": ["The lasso method relies on the linear model but uses an alternative fitting procedure that can set some coefficients to exactly zero, leading to a more interpretable model."]}
+{"id": 8, "contributed_by": "group 1", "question": "Describe overfitting?", "answers": ["Overfitting occurs when a statistical method follows the errors or noise too closely, leading to poor predictions on new observations."]}
