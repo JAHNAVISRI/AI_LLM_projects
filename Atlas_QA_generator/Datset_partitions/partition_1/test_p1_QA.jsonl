@@ -1,0 +1,2 @@
+{"id": 9, "contributed_by": "group 1", "question": "How does the lasso method differ from least squares linear regression?", "answers": ["Odds represent the ratio of the probability of an event occurring to it not occurring."]}
+{"id": 10, "contributed_by": "group 1", "question": "Why can highly flexible methods lead to overfitting?", "answers": ["Highly flexible methods can lead to overfitting because they might adapt too closely to the training data, including its noise or errors, rather than capturing the underlying relationship."]}
